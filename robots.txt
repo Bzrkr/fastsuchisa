@@ -1,0 +1,5 @@
+User-agent: YandexBot,Googlebot,Mail.ru,Rambler Bot,BingBot,Slurp
+Crawl-delay: 1
+Host: https://greattherock.github.io/fastsuchisa/
+Sitemap: http://https://greattherock.github.io/fastsuchisa/sitemap.xml
+
